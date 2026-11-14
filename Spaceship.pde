@@ -49,3 +49,4 @@ class Spaceship extends Floater {
   public int getY() {
     return (int) myCenterY;
   }
+}
